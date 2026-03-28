@@ -17,12 +17,9 @@ To write a Java program  to Count the number of inversions in an array where inv
 ## Program:
 ``` java 
 /*
-Program to Count the number of inversions in an array 
-where inversion is defined as: arr[i] > arr[j] and i < j
-
-Developed by: karthik saravanan b
-Register Number: 212224230118
-Date: 19-02-2026
+Program To determine the minimum value (e.g., lowest heartbeat), implement a recursive method.
+Developed by: VASANTH N
+RegisterNumber:  212224110060
 */
 
 import java.util.Scanner;
