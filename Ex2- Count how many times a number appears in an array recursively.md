@@ -27,11 +27,10 @@ To write a Java program to Count how many times a number appears in an array rec
 
 ## Program:
 ```
-/* 
-Program Count how many times a number appears in an array recursively.
-
-Developed by: karthik saravanan b
-Register Number: 212224230118
+/*
+Program To determine the minimum value (e.g., lowest heartbeat), implement a recursive method.
+Developed by: VASANTH N
+RegisterNumber:  212224110060
 */
 
 import java.util.Scanner;
